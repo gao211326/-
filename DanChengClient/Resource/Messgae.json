@@ -1,0 +1,27 @@
+{
+    "endRow": 1,
+    "firstPage": true,
+    "index": 1,
+    "lastPage": true,
+    "middlePage": false,
+    "nextPage": 1,
+    "nextPageAvailable": false,
+    "pageSize": 15,
+    "previousPage": 1,
+    "previousPageAvailable": false,
+    "rows": [
+             {
+             "content": "廖光兰业主，你所提交的报修已通过，现需付费3123.00元。 材料费为：1231.00元，人工费为：1231.00元，总金额为：3123.00元。如您同意付费请联系'维修员01'员工，电话：18628253218 预计维修时间为：2015-10-22",
+             "createTime": "Fri, 09 Oct 2015 15:16:34 GMT",
+             "enable": true,
+             "id": 1,
+             "orderId": 21,
+             "readed": false,
+             "repairUserId": 4,
+             "repairUserPhone": "18080796573"
+             }
+             ],
+    "startRow": 0,
+    "totalItem": 1,
+    "totalPage": 1
+}

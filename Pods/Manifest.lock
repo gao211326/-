@@ -1,0 +1,36 @@
+PODS:
+  - iCarousel (1.8.1)
+  - IQKeyboardManager (3.2.1.2)
+  - JSONKit (1.5pre)
+  - Masonry (0.6.1)
+  - MKNetworkKit (0.87):
+    - Reachability (~> 3.1.0)
+  - OpenUDID (1.0.0)
+  - Reachability (3.1.1)
+  - SDWebImage (3.7.2):
+    - SDWebImage/Core (= 3.7.2)
+  - SDWebImage/Core (3.7.2)
+  - SVPullToRefresh (0.4.1)
+
+DEPENDENCIES:
+  - iCarousel (~> 1.8.1)
+  - IQKeyboardManager (~> 3.2.1.2)
+  - JSONKit (~> 1.5pre)
+  - Masonry (~> 0.6.1)
+  - MKNetworkKit (~> 0.87)
+  - OpenUDID (~> 1.0.0)
+  - SDWebImage (~> 3.7.1)
+  - SVPullToRefresh (~> 0.4.1)
+
+SPEC CHECKSUMS:
+  iCarousel: dace1cb858e3f4dc2614bee3201041247f82feda
+  IQKeyboardManager: 4adcd7cc9c17440a7cb74755f6f6c8389919c6bf
+  JSONKit: bae313ce6a6c444f40489a6c0b023f399888871f
+  Masonry: 4972309f2f134de9dd312f4dc4a21359b50e6caa
+  MKNetworkKit: 60ad3c83b62183e40ba75ce772c9427c25b520de
+  OpenUDID: e7cb6984c7304906ad20f3a36bf087b025896b6b
+  Reachability: dd9aa4fb6667b9f787690a74f53cb7634ce99893
+  SDWebImage: 71b7cdc1d1721d6a82ed62889030225f2c249e29
+  SVPullToRefresh: ba2e718695a43253d8bea6852d2960097dc15d8c
+
+COCOAPODS: 0.35.0
